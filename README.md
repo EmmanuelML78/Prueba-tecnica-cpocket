@@ -110,6 +110,9 @@ MYSQL_USER=medina
 MYSQL_PASSWORD=123456
 MYSQL_ROOT_PASSWORD=123456
 
+#railway
+DATABASE_URL=mysql://root:dKFguEYWUEhOCivNCcmlwCmqNDwZijHj@caboose.proxy.rlwy.net:43201/railway
+
 # Prisma y App
 DATABASE_URL=mysql://medina:123456@db:3306/db_chatbot
 
@@ -119,6 +122,7 @@ PORT=3001
 
 ---
 
-## 📄 Licencia
+## 🌐 Enlaces de Despliegue
 
-Este proyecto se desarrolla con fines de evaluación técnica.
+- **Frontend en producción**: [URL del frontend](https://prueba-tecnica-cpocket.vercel.app/)
+- **Backend en producción**: [URL del backend](https://prueba-tecnica-cpocket.onrender.com)
